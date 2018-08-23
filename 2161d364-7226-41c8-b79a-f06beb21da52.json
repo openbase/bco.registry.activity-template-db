@@ -1,5 +1,14 @@
 {
   "id": "2161d364-7226-41c8-b79a-f06beb21da52",
-  "label": "Relaxing",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Relaxing"
+        ]
+      }
+    ]
+  },
   "type": "RELAXING"
 }

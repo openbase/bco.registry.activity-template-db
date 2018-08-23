@@ -1,5 +1,14 @@
 {
   "id": "5412d1f3-7686-41ed-9a5f-35ac77bd4a09",
-  "label": "Cleaning",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Cleaning"
+        ]
+      }
+    ]
+  },
   "type": "CLEANING"
 }

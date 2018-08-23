@@ -1,5 +1,14 @@
 {
   "id": "15fa1058-0b2b-4a82-9115-b1cc78d23207",
-  "label": "Working",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Working"
+        ]
+      }
+    ]
+  },
   "type": "WORKING"
 }

@@ -1,5 +1,14 @@
 {
   "id": "1ed6b72a-3537-48a0-bd91-2014401afb49",
-  "label": "Eating",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Eating"
+        ]
+      }
+    ]
+  },
   "type": "EATING"
 }

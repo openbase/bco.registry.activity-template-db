@@ -1,5 +1,14 @@
 {
   "id": "83cfb4e3-cce7-4b4d-a421-7356e4478b8b",
-  "label": "Other",
+  "label": {
+    "entry": [
+      {
+        "key": "en",
+        "value": [
+          "Other"
+        ]
+      }
+    ]
+  },
   "type": "OTHER"
 }
