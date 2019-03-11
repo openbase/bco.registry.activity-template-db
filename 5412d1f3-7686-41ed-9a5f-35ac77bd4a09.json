@@ -10,5 +10,5 @@
       }
     ]
   },
-  "type": "CLEANING"
+  "activity_type": "CLEANING"
 }
